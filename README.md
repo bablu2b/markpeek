@@ -20,7 +20,7 @@
 
 ## 🚀 Demo
 
-👉 [Click here to use it now](https://github.com/bablu2b/markpeek)  
+👉 [Click here to use it now](https://bablu2b.github.io/markpeek/)  
 
 
 ![Demo Screenshot](screenshot.png)  
